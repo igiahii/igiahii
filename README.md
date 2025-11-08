@@ -5,13 +5,11 @@ Hi there! I'm a web developer focused on creating impactful, user-friendly web a
 ___
 👨‍💻 About Me
 
-I'm a passionate web developer with a strong foundation in both design and programming. My journey began at age 18 with web design, creating and customizing WordPress sites using HTML and CSS. While studying computer science at Amirkabir University of Technology, I pursued a web design degree at the University of Tehran, building both technical skills and design expertise.
+I'm a self-motivated web developer who started in tech at 18, initially focusing on web design and digital marketing. Over time, I’ve specialized in ASP.NET with a strong focus on backend development, while also gaining solid experience with modern frontend technologies like React js allowing me to work efficiently across the full stack.
 
-After web design, I shifted to programming, specializing in JavaScript and TypeScript for frontend development, using frameworks and libraries like React and Next.js. I freelanced during this period, completing various projects until I finished my bachelor's degree and military service.
+Currently, I work as a .NET Developer at Kanoon Ghalamchi, where I help refactor legacy systems and modernize web applications using the latest .NET technologies. 
 
-Currently, I work at an IT company focused on innovative medical applications, where I develop web-based tools that enhance healthcare solutions. My primary technologies are ASP.NET MVC and C#, but I’ve also worked with ASP.NET Core, jQuery, SQL Server, T-SQL, and PWA development—among other tools and frameworks.
-
-Though my main responsibilities are on the frontend, I also contribute to backend development. I’m committed to advancing my skills and am on the path to becoming a full-stack developer.
+Previously, I developed CMS platforms and progressive web apps for the healthcare industry, delivering scalable and maintainable solutions.
 
 ___
 🛠️ Tech Stack
